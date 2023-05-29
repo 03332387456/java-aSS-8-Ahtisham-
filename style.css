@@ -1,0 +1,29 @@
+.shape {
+  width: 200px;
+  height: 200px;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: green;
+}
+
+.square {
+  background-color: green;
+  border-radius: 0;
+}
+
+.triangle {
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid green;
+
+  
+}
+
+.b1 {
+  padding: 20px;
+  margin: 20px;
+  color: red;
+  background-color: black;
+}
